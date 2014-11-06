@@ -57,16 +57,5 @@ Eclipse
 
 AndroidSwipeLayout-v1.1.6.jar
 
-Step 2
 
-Wiki Usage
 
-Wiki
-
-Go to Wiki
-
-About me
-
-A student in mainland China.
-
-Welcome to offer me an internship. If you have any new idea about this project, feel free to contact me. :smiley:
